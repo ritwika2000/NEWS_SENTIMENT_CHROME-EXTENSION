@@ -1,0 +1,27 @@
+body{
+    width:300px;
+    height:300px;
+}
+
+#findsentiment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top:40px;
+    border-radius: 6px;
+    padding: 10px 24px;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+}
+
+#findsentiment:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  #sentimentdisplay{
+    text-align: center;
+  }
+
